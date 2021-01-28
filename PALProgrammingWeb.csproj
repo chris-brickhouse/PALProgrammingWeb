@@ -8,8 +8,4 @@
     <None Remove="Views\Home\Test.html" />
   </ItemGroup>
 
-  <ItemGroup>
-    <None Include="wwwroot\Test.html" />
-  </ItemGroup>
-
 </Project>
